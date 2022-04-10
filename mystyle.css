@@ -1,0 +1,14 @@
+/*mystyle.css*/
+
+body{
+    background-color: rgb(182, 240, 182);
+    padding: 30px;
+}
+
+img{
+    width: 15%;
+    height: 150px;
+}
+p{
+    font-size: 20px;
+}
